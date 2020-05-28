@@ -1,7 +1,7 @@
 #include "../lib/std_lib_facilities.h"
 
 int main() {
-    cout << "Enter two integers seperated with a space: ";
+    cout << "Enter two integers seperated by a space: ";
     // int val1, val2; // create variables to store user input
     double val1, val2; // change int to double to see the difference
     cin >> val1 >> val2; // read in user input and save in variables
