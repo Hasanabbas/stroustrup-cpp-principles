@@ -7,6 +7,7 @@ int main() {
 
     if (val2 < val1) swap(val2, val1);
     if (val3 < val2) swap(val3, val2);
+    if (val2 < val1) swap(val2, val1);
 
     cout << val1 << " " << val2 << " " << val3 << "\n";
 }
